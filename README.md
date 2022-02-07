@@ -4,6 +4,6 @@ The Essential Chart is used as a means to show the graphical representation of t
 
 ![](Images/GettingStarted_Output.PNG)
 
-For know more about kanban : https://www.syncfusion.com/winforms-ui-controls/chart
+To know more about chart : https://www.syncfusion.com/winforms-ui-controls/chart
 
-Kanban user guide documentation : https://help.syncfusion.com/windowsforms/chart/overview
+Chart user guide documentation : https://help.syncfusion.com/windowsforms/chart/overview
