@@ -62,8 +62,11 @@ Today, we provide 1700+ components and frameworks for web ([Blazor](https://www.
 
 This is a commercial product and requires a paid license for possession or use. Syncfusion’s licensed software, including this component, is subject to the terms and conditions of [Syncfusion's EULA](https://www.syncfusion.com/eula/es/?utm_source=github&utm_medium=listing&utm_campaign=winforms-chart-github-samples). To acquire a license, you can purchase one [here]( https://www.syncfusion.com/sales/products/windowsforms?utm_source=github&utm_medium=listing&utm_campaign=winforms-chart-github-samples) or start a free 30-day trial [here](https://www.syncfusion.com/account/manage-trials/start-trials?utm_source=github&utm_medium=listing&utm_campaign=winforms-chart-github-samples).
 
-___
+<hr style="height:0.3px;border:none;color:lightgrey;background-color:lightgrey;" />
 
-[sales@syncfusion.com](mailto:sales@syncfusion.com?Subject=Syncfusion WinForms Chart - GitHub) | [www.syncfusion.com](https://www.syncfusion.com?utm_source=github&utm_medium=listing&utm_campaign=winforms-chart-github-samples) | Toll Free: 1-888-9 DOTNET
+<p align="center">
+  <a href="mailto:sales@syncfusion.com?Subject=Syncfusion WinForms Chart - Github" target="_top">sales@syncfusion.com</a> | <a href="https://www.syncfusion.com?utm_source=github&utm_medium=listing&utm_campaign=winforms-chart-github-samples">www.syncfusion.com</a> | 1-888-9 DOTNET <br>
+</p>
+
 
 
