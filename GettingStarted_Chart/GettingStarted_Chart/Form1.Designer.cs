@@ -3,6 +3,7 @@ using Syncfusion.Windows.Forms.Chart;
 using System.ComponentModel;
 using System.Drawing;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace GettingStarted_Chart
 {
@@ -46,8 +47,8 @@ namespace GettingStarted_Chart
             this.chartControl1.ChartArea.CursorLocation = new System.Drawing.Point(0, 0);
             this.chartControl1.ChartArea.CursorReDraw = false;
             this.chartControl1.DataSourceName = "[none]";
-            this.chartControl1.IsWindowLess = false;            
-            this.chartControl1.TabIndex = 0;            
+            this.chartControl1.IsWindowLess = false;
+            this.chartControl1.TabIndex = 0;
             this.chartControl1.Skins = Skins.Metro;
 
             //
@@ -55,7 +56,7 @@ namespace GettingStarted_Chart
             //
             this.chartControl1.PrimaryXAxis.ValueType = ChartValueType.Category;
             this.chartControl1.PrimaryXAxis.TitleColor = System.Drawing.SystemColors.ControlText;
-           
+
             BindingList<SalesData> dataSource = new BindingList<SalesData>();
             dataSource.Add(new SalesData("1999", 3));
             dataSource.Add(new SalesData("2000", 7));
